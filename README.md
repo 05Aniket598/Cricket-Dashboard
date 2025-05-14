@@ -49,7 +49,7 @@ These allow you to spot performance trends across recent games.
 
 ```
 Cricket Dashboard/
-├── cricketDashboard.pbix         # Power BI Dashboard file
+├── Cricket Dashboard.pbix         # Power BI Dashboard file
 └── README.md                     # Project documentation
 ```
 
@@ -63,7 +63,7 @@ Cricket Dashboard/
 
 ## 🚀 How to Use
 
-1. Open `cricketDashboard.pbix` in Power BI Desktop.
+1. Open `Cricket Dashboard.pbix` in Power BI Desktop.
 
 2. Select the role and countries using slicers, explore the data, and **build your ideal Playing 11** using the visual insights.
 
@@ -76,6 +76,17 @@ Cricket Dashboard/
 
 ---
 
+---
+
+## ⚠️ Data Limitations
+
+- The dataset used in this dashboard includes only matches from the **ICC T20 World Cup 2022**.
+- Performance metrics reflect a **limited time period**, and may not represent a player's full career performance.
+- Selection decisions should consider broader data for long-term trends.
+
+---
+
+
 ## 📚 Learning Highlights
 
 - Power BI data modeling, Power Query transformations
@@ -85,6 +96,8 @@ Cricket Dashboard/
 - Making **data-informed team selections**
 
 ---
+
+
 
 ## 🙌 Contributing
 
